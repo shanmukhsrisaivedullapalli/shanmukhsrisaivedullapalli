@@ -50,6 +50,9 @@ I'm a final year Computer Science and Engineering student at Lovely Professional
 ![Requests](https://img.shields.io/badge/-Requests-ff6600?style=flat-square)
 ![Django Rest Framework](https://img.shields.io/badge/-Django_Rest_Framework-092E20?style=flat-square&logo=django&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Tkinter](https://img.shields.io/badge/-Tkinter-4B8BBE?style=flat-square&logo=python&logoColor=white)
+![Pygame](https://img.shields.io/badge/-Pygame-3776AB?style=flat-square&logo=python&logoColor=white)
+![NLTK](https://img.shields.io/badge/-NLTK-333333?style=flat-square)
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shanmukhsrisaivedullapalli&show_icons=true&theme=radical)
