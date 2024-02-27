@@ -1,5 +1,3 @@
----
-
 # Hey, I'm Shanmukh Sri Sai! 👋
 
 I'm a final year Computer Science and Engineering student at Lovely Professional University, passionate about web development, data science, and programming.
@@ -31,7 +29,3 @@ I'm a final year Computer Science and Engineering student at Lovely Professional
 - Medminder - Medicine Reminder for Elderly
 - Music Player (HTML, CSS, JavaScript)
 - Red Wine Quality Prediction (Data Science)
-
----
-
-Feel free to adjust the content and formatting to suit your preferences!
