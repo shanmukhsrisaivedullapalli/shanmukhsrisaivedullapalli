@@ -1,5 +1,3 @@
-Sure, here's a template for your GitHub profile README:
-
 ---
 
 # Hey, I'm Shanmukh Sri Sai! 👋
