@@ -30,4 +30,4 @@ I'm a final year Computer Science and Engineering student at Lovely Professional
 - Music Player (HTML, CSS, JavaScript)
 - Red Wine Quality Prediction (Data Science)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shanmukhsrisaivedullapalli&show_icons=true&theme=radical)
