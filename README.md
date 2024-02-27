@@ -29,3 +29,6 @@ I'm a final year Computer Science and Engineering student at Lovely Professional
 - Medminder - Medicine Reminder for Elderly
 - Music Player (HTML, CSS, JavaScript)
 - Red Wine Quality Prediction (Data Science)
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
