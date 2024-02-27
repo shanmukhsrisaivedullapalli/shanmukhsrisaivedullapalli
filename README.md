@@ -5,7 +5,7 @@ I'm a final year Computer Science and Engineering student at Lovely Professional
 - 🌱 I’m currently learning Django and working on personal projects.
 - 👯 I’m looking to collaborate on web development and data science projects.
 - 💬 Ask me about Django, Python, JavaScript, or anything tech-related!
-- 📫 How to reach me: [Email](mailto:vedullapalli.shanmukhsrisai@gmail.com) | [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/vedullapallishanmukh/))
+- 📫 How to reach me: [Email](mailto:vedullapalli.shanmukhsrisai@gmail.com) | [LinkedIn]([https://www.linkedin.com/in/vedullapallishanmukh/])
 - 😄 Pronouns: He/Him
 
 ### Certifications:
