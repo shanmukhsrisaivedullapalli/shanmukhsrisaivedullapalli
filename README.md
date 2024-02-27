@@ -1,4 +1,4 @@
-# Hey, I'm Shanmukh Sri Sai! 👋 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username)
+# Hey, I'm Shanmukh Sri Sai! 👋 ![Profile Views](https://komarev.com/ghpvc/?username=shanmukhsrisaivedullapalli)
 
 I'm a final year Computer Science and Engineering student at Lovely Professional University, passionate about web development, data science, and programming.
 
